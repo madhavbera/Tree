@@ -14,8 +14,6 @@ void push(int value)
 }
 void pop()
 {
-  
-
     if(topll==NULL)
     {
         printf("stack is empty");
